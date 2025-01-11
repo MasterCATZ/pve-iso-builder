@@ -1,3 +1,8 @@
+apt install debootstrap
+apt install squashfs-tools
+apt install xorriso
+
+
 ## How to use
 
 Please use the Debian system to execute this script ！
